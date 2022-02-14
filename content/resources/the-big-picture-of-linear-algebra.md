@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Vector Spaces and Subspaces
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: The Big Picture of Linear Algebra
 uid: 464f0d5d-4bae-8ec3-43e0-4f19e86c43aa

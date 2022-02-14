@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Graphical and Numerical Methods
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Linearization at Critical Points
 uid: 4ae8b4bb-823f-f4e4-fc8a-faf7576b0a73

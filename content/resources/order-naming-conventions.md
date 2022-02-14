@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Solving ODEs in MATLAB
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Order, Naming Conventions
 uid: 0b52f370-3012-3b88-06e8-b2c389223497
@@ -14,7 +21,7 @@ video_metadata:
   youtube_id: 6O9D6am_RK4
 ---
 
-**Description:** The digits in the name of a MATLAB® ODE solver reflect its order and resulting accuracy. A method is said to have order p if cutting the step size in half reduces the error in one step by a factor of two to the power p+1.
+**Description:** The digits in the name of a MATLAB{{< sup "®" >}} ODE solver reflect its order and resulting accuracy. A method is said to have order p if cutting the step size in half reduces the error in one step by a factor of two to the power p+1.
 
 [Related MATLAB code files can be downloaded from MATLAB Central](http://www.mathworks.com/matlabcentral/fileexchange/54611)
 

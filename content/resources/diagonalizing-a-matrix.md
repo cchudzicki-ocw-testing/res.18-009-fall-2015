@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Eigenvalues and Eigenvectors
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Diagonalizing a Matrix
 uid: e08dc333-beec-3570-d6ce-20a5fff3f0e2

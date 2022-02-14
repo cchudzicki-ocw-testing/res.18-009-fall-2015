@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Eigenvalues and Eigenvectors
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Solving Linear Systems
 uid: 9cf2fcdf-48fc-41a0-fb1d-6260fd006813

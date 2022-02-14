@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Eigenvalues and Eigenvectors
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Symmetric Matrices, Real Eigenvalues, Orthogonal Eigenvectors
 uid: 017fc5c8-76cf-7fb4-800e-c44e312b3d8d

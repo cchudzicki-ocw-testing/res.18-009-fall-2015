@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Graphical and Numerical Methods
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Phase Plane Pictures: Source, Sink, Saddle'
 uid: 1f0a7e35-9153-27ad-d3a2-e498a039dc78

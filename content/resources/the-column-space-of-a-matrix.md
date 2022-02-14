@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Vector Spaces and Subspaces
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: The Column Space of a Matrix
 uid: 21acc047-fe3f-d4c9-cbd3-be2e3f15b937

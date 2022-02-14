@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Graphical and Numerical Methods
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Eigenvalues and Stability: 2 by 2 Matrix, A'
 uid: 9ff45c5f-6c4f-b29f-c56b-e8dc2dd686cb

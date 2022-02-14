@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Applied Mathematics and ATA
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Singular Value Decomposition (the SVD)
 uid: c732f967-fb88-e87a-f1ad-37479a69de27

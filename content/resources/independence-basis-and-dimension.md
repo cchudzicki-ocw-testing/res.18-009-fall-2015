@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Vector Spaces and Subspaces
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Independence, Basis, and Dimension
 uid: f87248fe-8d30-114b-fb5a-3ac5d5c92905

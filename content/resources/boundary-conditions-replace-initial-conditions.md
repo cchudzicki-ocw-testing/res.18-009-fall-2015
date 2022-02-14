@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Applied Mathematics and ATA
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Boundary Conditions Replace Initial Conditions
 uid: 95a316f0-ea50-a167-9abf-55d4872405d0

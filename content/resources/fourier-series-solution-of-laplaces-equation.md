@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Fourier and Laplace Transforms
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Fourier Series Solution of Laplace's Equation
 uid: fb70843a-a7bf-2bee-df81-1a68eab5fadf
@@ -14,7 +21,7 @@ video_metadata:
   youtube_id: WWphCZkdByA
 ---
 
-**Description:** Around every circle, the solution to Laplace's equation is a Fourier series with coefficients proportional to _rn_. On the boundary circle, the given boundary values determine those coefficients.
+**Description:** Around every circle, the solution to Laplace's equation is a Fourier series with coefficients proportional to _r{{< sup "n" >}}_. On the boundary circle, the given boundary values determine those coefficients.
 
 Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 8.1c
 

@@ -1,9 +1,12 @@
 ---
 content_type: page
 is_media_gallery: true
+learning_resource_types: []
 parent_title: Differential Equations and Linear Algebra
+parent_type: SupplementalResourceSection
 parent_uid: 75be5942-86fc-6182-0f93-147523356fe2
 title: Applied Mathematics and ATA
+type: SupplementalResourceSection
 uid: 2cc6caac-d406-7f42-fa9d-1b6519945fc2
 videos:
   content:

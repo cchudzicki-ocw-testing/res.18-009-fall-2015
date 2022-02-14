@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Solving ODEs in MATLAB
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Euler, ODE1
 uid: 26ac4621-ab8d-0591-9736-377a8c52d0f7
@@ -14,7 +21,7 @@ video_metadata:
   youtube_id: aW-e04zwTnc
 ---
 
-**Descriptions:** ODE1 implements Euler's method. It provides an introduction to numerical methods for ODEs and to the MATLAB® suite of ODE solvers. Exponential growth and compound interest are used as examples.
+**Descriptions:** ODE1 implements Euler's method. It provides an introduction to numerical methods for ODEs and to the MATLAB{{< sup "®" >}} suite of ODE solvers. Exponential growth and compound interest are used as examples.
 
 [Related MATLAB code files can be downloaded from MATLAB Central](http://www.mathworks.com/matlabcentral/fileexchange/54611)
 

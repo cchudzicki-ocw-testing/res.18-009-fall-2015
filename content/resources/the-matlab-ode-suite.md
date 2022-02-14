@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Solving ODEs in MATLAB
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: The MATLAB ODE Suite
 uid: d255105b-3f1c-9a1d-e9fb-bc907b26972c
@@ -14,7 +21,7 @@ video_metadata:
   youtube_id: cQKR5m5pTTg
 ---
 
-**Descriptions:** The MATLAB® documentation provides two charts summarizing the features of each of the seven functions in the MATLAB ODE suite.
+**Descriptions:** The MATLAB{{< sup "®" >}} documentation provides two charts summarizing the features of each of the seven functions in the MATLAB ODE suite.
 
 [Related MATLAB code files can be downloaded from MATLAB Central](http://www.mathworks.com/matlabcentral/fileexchange/54611)
 

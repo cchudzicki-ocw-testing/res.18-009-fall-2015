@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: Differential Equations and Linear Algebra
+type: SupplementalResourceSection
 uid: 75be5942-86fc-6182-0f93-147523356fe2
 ---
 
