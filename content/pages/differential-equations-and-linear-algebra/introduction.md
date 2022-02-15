@@ -6,7 +6,6 @@ parent_title: Differential Equations and Linear Algebra
 parent_type: SupplementalResourceSection
 parent_uid: 75be5942-86fc-6182-0f93-147523356fe2
 title: Introduction
-type: SupplementalResourceSection
 uid: 6fde8549-1ede-a094-eb7d-37b45091bd8c
 videos:
   content:

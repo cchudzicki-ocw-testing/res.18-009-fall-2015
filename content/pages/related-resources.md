@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Related Resources
-type: SupplementalResourceSection
 uid: 21b85de3-c357-1e20-1666-84eaa773decb
 ---
 

@@ -6,7 +6,6 @@ parent_title: Differential Equations and Linear Algebra
 parent_type: SupplementalResourceSection
 parent_uid: 75be5942-86fc-6182-0f93-147523356fe2
 title: Graphical and Numerical Methods
-type: SupplementalResourceSection
 uid: 84dd94ec-46fe-8e59-9980-5e44f82c636f
 videos:
   content:

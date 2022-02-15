@@ -3,7 +3,6 @@ content_type: video_gallery
 is_media_gallery: true
 learning_resource_types: []
 title: Solving ODEs in MATLAB
-type: SupplementalResourceSection
 uid: 8ee92c27-f02b-fd86-d262-9f4ce23755ef
 videos:
   content:

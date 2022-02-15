@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Video Series Overview
-type: SupplementalResourceSection
 uid: a9916d12-f128-bdd2-a11b-02e75f786ba1
 ---
 

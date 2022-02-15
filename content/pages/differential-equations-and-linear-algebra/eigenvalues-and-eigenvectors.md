@@ -6,7 +6,6 @@ parent_title: Differential Equations and Linear Algebra
 parent_type: SupplementalResourceSection
 parent_uid: 75be5942-86fc-6182-0f93-147523356fe2
 title: Eigenvalues and Eigenvectors
-type: SupplementalResourceSection
 uid: eea80322-d845-c02f-5a60-79ba180150bd
 videos:
   content:
