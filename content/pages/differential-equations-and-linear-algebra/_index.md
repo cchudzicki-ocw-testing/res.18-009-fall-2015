@@ -9,11 +9,11 @@ Gilbert Strang explains differential equations and linear algebra, which are two
 
 The video series is divided into eight parts corresponding to chapters of the textbook.
 
-- [Introduction]({{< baseurl >}}/pages/differential-equations-and-linear-algebra/introduction) (2 videos)
-- [First Order Equations]({{< baseurl >}}/pages/differential-equations-and-linear-algebra/first-order-equations) (10 videos)
-- [Second Order Equations]({{< baseurl >}}/pages/differential-equations-and-linear-algebra/second-order-equations) (13 videos)
-- [Graphical and Numerical Methods]({{< baseurl >}}/pages/differential-equations-and-linear-algebra/graphical-and-numerical-methods) (8 videos)
-- [Vector Spaces and Subspaces]({{< baseurl >}}/pages/differential-equations-and-linear-algebra/vector-spaces-and-subspaces) (5 videos)
-- [Eigenvalues and Eigenvectors]({{< baseurl >}}/pages/differential-equations-and-linear-algebra/eigenvalues-and-eigenvectors) (8 videos)
-- [Applied Mathematics and ATA]({{< baseurl >}}/pages/differential-equations-and-linear-algebra/applied-mathematics-and-ata) (4 videos)
-- [Fourier and Laplace Transforms]({{< baseurl >}}/pages/differential-equations-and-linear-algebra/fourier-and-laplace-transforms) (5 videos)
+- {{< resource_link 6fde8549-1ede-a094-eb7d-37b45091bd8c "Introduction" >}} (2 videos)
+- {{< resource_link 0f5c00c5-3cd1-aaf2-cb7b-c1d5deaba2a9 "First Order Equations" >}} (10 videos)
+- {{< resource_link 6038bc50-02ab-0da0-b5f1-5d8b8de5fc0a "Second Order Equations" >}} (13 videos)
+- {{< resource_link 84dd94ec-46fe-8e59-9980-5e44f82c636f "Graphical and Numerical Methods" >}} (8 videos)
+- {{< resource_link f15feb7b-d1d8-1045-af8d-068192ccd849 "Vector Spaces and Subspaces" >}} (5 videos)
+- {{< resource_link eea80322-d845-c02f-5a60-79ba180150bd "Eigenvalues and Eigenvectors" >}} (8 videos)
+- {{< resource_link 2cc6caac-d406-7f42-fa9d-1b6519945fc2 "Applied Mathematics and ATA" >}} (4 videos)
+- {{< resource_link 078d9ec2-bb30-63bb-722a-fd2a85326f18 "Fourier and Laplace Transforms" >}} (5 videos)
