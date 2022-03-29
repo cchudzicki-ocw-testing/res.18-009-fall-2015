@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Symmetric Matrices, Real Eigenvalues, Orthogonal Eigenvectors
 uid: 017fc5c8-76cf-7fb4-800e-c44e312b3d8d
 video_files:
