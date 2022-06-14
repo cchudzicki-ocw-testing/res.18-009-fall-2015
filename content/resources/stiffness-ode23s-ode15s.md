@@ -29,3 +29,4 @@ video_metadata:
 [Related MATLAB code files can be downloaded from MATLAB Central](http://www.mathworks.com/matlabcentral/fileexchange/54611)
 
 **Instructor:** Cleve Moler
+

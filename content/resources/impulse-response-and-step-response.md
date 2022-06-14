@@ -29,3 +29,4 @@ video_metadata:
 Related section in [textbook](http://www-math.mit.edu/~gs/dela/): 2.3c
 
 **Instructor:** Prof. Gilbert Strang
+
