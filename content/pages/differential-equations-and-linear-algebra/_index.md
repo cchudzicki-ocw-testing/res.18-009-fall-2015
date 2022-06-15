@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this collection of 55 videos, Professor Gilbert Strang explores differential
+  equations and the math formulas behind them.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Differential Equations and Linear Algebra
